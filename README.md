@@ -32,7 +32,7 @@ huzaif@earth:~$ cat ~/now
 - **Reading:** *The Beginning of Infinity* by David Deutsch, *The Three-Body Problem* by Liu Cixin
 
 ```console
-huzaif@earth:~$ contact --list
+huzaif@earth:~$ cat ~/contact
 ```
 
 [huzaif.space](https://huzaif.space) · [LinkedIn](https://linkedin.com/in/huxaif) · [mohammedhuzaiffahadmhf@gmail.com](mailto:mohammedhuzaiffahadmhf@gmail.com) · [Resume (PDF)](https://huzaif.space/resume)
